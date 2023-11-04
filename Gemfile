@@ -75,3 +75,6 @@ group :test do
   gem 'shoulda-matchers'
 end
 
+gem "heroicon"
+gem 'simple_form'
+gem "simple_form_tailwind_css"

@@ -6,7 +6,10 @@
 
 * PG db
 
+* Simple Form + 
+
 * RSpec + Capybara testing with factory_bot
+
 
 <!-- * Tailwind CSS  + icons -->
 
